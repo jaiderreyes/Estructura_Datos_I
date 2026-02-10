@@ -130,9 +130,10 @@ Este proyecto está bajo la Licencia Educativa MIT - consulta el archivo [LICENS
 
 ## 👨‍🏫 **Contacto del Instructor**
 
-- 📧 **Email**: coordinacion_emprendimiento@uajs.edu.co
-- 🏫 **Universidad**: Universidad Autónoma de San Luis Potosí
+- 📧 **Email**: Jaider.reyes@gmail.com
+- 🏫 **Universidad**: UAJS (Corporación Universitaria Antonio José de Sucre)
 - 📅 **Semestre**: 2026-I
+- 🌐 **Sitio web**: www.jaiderreyes.com
 
 ---
 
