@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Arreglos_ejemplos" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Arreglos_ejemplos.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>

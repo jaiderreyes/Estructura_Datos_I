@@ -1,0 +1,99 @@
+# .gitignore para proyectos Java y NetBeans
+
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Directorios de construcción y salida
+build/
+bin/
+dist/
+out/
+target/
+
+# Archivos específicos de NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos específicos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# Archivos de sistema de macOS y Windows
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Archivos de configuración local
+config.properties
+application.properties
+.env
+
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos generados por herramientas
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Archivos de dependencias de Node.js (si se usan)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de documentación generada
+javadoc/
+
+# Archivos de backup de texto
+*.bak
+*.backup
+
+# Archivos específicos del sistema operativo
+# Windows
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Linux
+*~
+
+# Editor directories and files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
